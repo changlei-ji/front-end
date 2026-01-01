@@ -1,1 +1,0 @@
-print('ament 操作')
